@@ -1,0 +1,4 @@
+﻿  server-aes.cpp
+E:\VS_Projects\TCPAES\server-aes\server-aes.cpp(47,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS_Projects\TCPAES\server-aes\server-aes.cpp(105,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'aes-static.lib'

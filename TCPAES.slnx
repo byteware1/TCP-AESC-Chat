@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="aes-static/aes-static.vcxproj" Id="5b6b2bf0-3d07-4e19-8f4d-507bc7f051e0" />
+  <Project Path="client-aes/client-aes.vcxproj" Id="8d5ecc25-94e8-432c-a5ca-51cdb706c8e8" />
+  <Project Path="server-aes/server-aes.vcxproj" Id="ddebbaa8-4367-4b9c-83e2-f3dd071ef7c7" />
+</Solution>

@@ -1,0 +1,5 @@
+﻿  server-aes.cpp
+server-aes.obj : error LNK2001: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall AESCrypto::decrypt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?decrypt@AESCrypto@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV23@@Z)
+server-aes.obj : error LNK2001: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall AESCrypto::encrypt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?encrypt@AESCrypto@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV23@@Z)
+server-aes.obj : error LNK2001: unresolved external symbol "public: __thiscall AESCrypto::AESCrypto(unsigned char const *,unsigned char const *)" (??0AESCrypto@@QAE@PBE0@Z)
+E:\VS_Projects\TCPAES\Release\server-aes.exe : fatal error LNK1120: 3 unresolved externals
