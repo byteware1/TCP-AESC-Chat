@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Bartek/TCPAES?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square">
 </p>
